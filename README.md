@@ -1,4 +1,4 @@
-# Facebook auto scrape/re-scrape
+# Facebook Auto Scrape/Re-scrape (Javascript, PHP)
 Forced facebook to scrape/re-scrape meta contents for sharing
 
 Note:
